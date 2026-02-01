@@ -1,0 +1,19 @@
+# secrets
+.env
+*.env
+token.json
+credentials.json
+
+# sqlite / logs
+*.sqlite
+*.db
+*.sqlite3
+bot.log
+*.log
+
+# python
+__pycache__/
+*.pyc
+
+# mac
+.DS_Store
